@@ -1,0 +1,17 @@
+TABLE {
+border: 1px solid #000000;
+}
+
+TH {
+background-color: #2e6ab1;
+padding-left: 14px;
+padding-right: 8px;
+text-align:left;
+color:#ffffff;
+}
+
+TD {
+padding-left: 8px;
+padding-right: 8px;
+}
+

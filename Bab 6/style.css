@@ -1,0 +1,30 @@
+BODY {
+  color:#2e6ab1;
+}
+TABLE {
+border-collapse: collapse;
+}
+
+TH {
+background-color: #2e6ab1;
+padding-left: 14px;
+padding-right: 8px;
+border: 1px solid #969BA5;
+text-align:left;
+color:#ffffff;
+}
+
+TD {
+background-color: #F0F0F0;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 2px;
+padding-bottom: 2px;
+border: 1px solid #969BA5;
+color:#2e6ab1;
+}
+
+INPUT,SELECT {
+color:#2e6ab1;
+
+}
